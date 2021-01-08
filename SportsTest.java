@@ -7,5 +7,7 @@ public class SportsTest{
 		System.out.print("GIT Test Passed");
 System.out.print("Second Learning Passed");
 
+System.out.print("Third Learning Passed");
+
 }	
 }
